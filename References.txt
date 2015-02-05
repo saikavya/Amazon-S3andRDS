@@ -1,0 +1,10 @@
+First name: Sai Kavya
+Last name: Dukkipati
+UTA ID: 1000980778
+
+REFERENCES :
+-----------
+
+1. http://docs.aws.amazon.com/cli/latest/userguide/installing.html#install-msi-on-windows
+2.http://www.mysqltutorial.org/import-csv-file-mysql-table/
+3.http://boto.readthedocs.org/en/latest/s3_tut.html#
